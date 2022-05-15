@@ -1,0 +1,32 @@
+{
+  "prefix": "+",
+  "owner": ["850299286595698718"],
+  "clientid": "882530913739759667",
+  "clientsecret": "umeUdu8iipgCs99fOI7FPH3GxCilxhsD",
+  "clientcallback": "https://botcords.me/callback",
+  "mongoURL": "mongodb+srv://giveaways:hi@cluster0.ypljj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "972553507959865344",
+  "footer": "GLOBAL FOOTER",
+  "tags": [
+    "Moderation",
+    "Fun",
+    "Minecraft",
+    "Economy",
+    "Guard",
+    "NSFW",
+    "Anime",
+    "Invite",
+    "Music",
+    "Logging",
+    "Web Dashboard",
+    "Reddit",
+    "Youtube",
+    "Twitch",
+    "Crypto",
+    "Leveling",
+    "Game",
+    "Roleplay",
+    "Utility",
+    "Turkish"
+  ]
+}
